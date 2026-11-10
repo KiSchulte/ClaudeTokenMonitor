@@ -4,3 +4,4 @@ build/
 __pycache__/
 .DS_Store
 ._*
+!docs/screenshots/*.png

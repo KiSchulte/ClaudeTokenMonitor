@@ -16,6 +16,13 @@ the same numbers:
 - **Token composition**: input, output, cache write and cache read.
 - **German and English**, switchable at runtime.
 
+<p align="center">
+  <img src="docs/screenshots/overview.png" width="32%" alt="Overview tab: current 5-hour window, period totals, token composition, models today, last 14 days">
+  <img src="docs/screenshots/history-dark.png" width="32%" alt="History tab in dark mode: daily token chart with totals, average and peak">
+  <img src="docs/screenshots/windows.png" width="32%" alt="Windows tab: recent 5-hour windows with tokens, cost and models">
+</p>
+<p align="center"><sub>Linux/GNOME version, showing demo data. The macOS version shows the same tabs in a menu-bar panel.</sub></p>
+
 The app makes no network requests and needs no API key or account. It only
 reads local files under `~/.claude/projects`.
 
