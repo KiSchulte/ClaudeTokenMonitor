@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=Claude Token Monitor
+GenericName=Token Usage Monitor
+GenericName[de]=Token-Verbrauch
+Comment=Claude token usage from local Claude Code transcripts
+Comment[de]=Claude-Token-Verbrauch aus den lokalen Claude-Code-Transkripten
+Exec=@BIN@
+Icon=io.github.KiSchulte.ClaudeTokenMonitor
+Terminal=false
+Categories=Utility;
+Keywords=Claude;Tokens;Usage;Cost;Anthropic;
+StartupNotify=true
+SingleMainWindow=true
+DBusActivatable=false
